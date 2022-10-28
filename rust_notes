@@ -1,0 +1,6 @@
+rustup, a command line tool for managing Rust versions and associated tools.
+Cargo is Rust’s build system and package manager. Most Rustaceans use this tool to manage their Rust projects because Cargo handles a lot of tasks for you,
+This file is in the TOML (Tom’s Obvious, Minimal Language) format, which is Cargo’s configuration format.
+The prelude is the list of things that Rust automatically imports into every Rust program.
+
+In Rust, variables are immutable by default, meaning once we give the variable a value, the value won't change. 
